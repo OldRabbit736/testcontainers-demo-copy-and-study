@@ -8,4 +8,4 @@ services:
       MYSQL_ROOT_PASSWORD: letsgomarco
       MYSQL_DATABASE: somedatabase
     ports:
-      - 3306:3306
+      - "3307:3306"
